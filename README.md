@@ -1,6 +1,6 @@
 HTML + JavaScript + Node.js + Express
 
-1- Use the Hyperterminal to enter the server by:
+1- Use the HyperTerminal to enter the server by:
 
 - Installing nodemon by typing `npm install -g nodemon` (Wherever you want^^)
 
@@ -8,4 +8,4 @@ HTML + JavaScript + Node.js + Express
 
 - Typing `nodemon` or `nodemon calculator.js`
 
-2 - Enter the url: "localhost:3000" **and** "localhost:3000/bmicalculator"
+2 - Enter the url: "localhost:3000/" **and** "localhost:3000/bmicalculator"
