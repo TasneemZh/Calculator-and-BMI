@@ -6,7 +6,7 @@ HTML + JavaScript + Node.js + Express
 
 - Moving to the directory where you cloned the project (Use cd)
 
-- `nodemon (app.js)` on your HyperTerminal
+- Typing `nodemon (app.js)`
 
 NOTE: Specifying *app.js* after *nodemon* is **optional** since it is determined to be the main file in *package.JSON*
 
