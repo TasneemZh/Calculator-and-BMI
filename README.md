@@ -6,6 +6,8 @@ HTML + JavaScript + Node.js + Express
 
 - Moving to the directory where you cloned the project (Use cd)
 
-- Typing `nodemon` or `nodemon calculator.js`
+- `nodemon (app.js)` on your HyperTerminal
 
-2 - Enter the url: "localhost:3000/" **and** "localhost:3000/bmicalculator"
+NOTE: Specifying *app.js* after *nodemon* is **optional** since it is determined to be the main file in *package.JSON*
+
+2 - Enter the url: http://localhost:3000/ and http://localhost:3000/bmicalculator
