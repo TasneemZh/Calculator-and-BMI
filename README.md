@@ -2,7 +2,7 @@ HTML + JavaScript + Node.js + Express
 
 1- Use the HyperTerminal to enter the server by:
 
-NOTE: **don't do the first bulleted step if you have installed nodemon before**
+NOTE: Don't do the first bulleted step if you have installed **nodemon** before
 
 - Installing nodemon by typing `npm install -g nodemon` (Wherever you want^^)
 
